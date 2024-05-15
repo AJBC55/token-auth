@@ -1,3 +1,3 @@
-module github.com/ajbc55/tokenauth
+module github.com/AJBC55/tokenauth
 
 go 1.22.0
